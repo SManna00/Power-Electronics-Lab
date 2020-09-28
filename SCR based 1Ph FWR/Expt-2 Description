@@ -1,0 +1,11 @@
+Experiment 2 of Power Electronics Laboratory for 6th Semester Electrical Engineering UG Students.
+
+Title - Single Phase Full Wave Center-Tapped Rectifier
+
+Specifications :-
+Input voltage: 230 V, 50 Hz, single phase AC supply; rectifier is fed through a single phase
+transformer with centre-tapped secondary; turns ratio- primary : secondary-1 : secondary-2 = 2 : 1 : 1. 
+
+Triggering Angle set for 30 degrees
+Loads - Purely Resistive, RL, RLE loads
+                 
