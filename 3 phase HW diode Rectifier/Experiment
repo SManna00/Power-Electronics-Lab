@@ -1,0 +1,6 @@
+Three Phase Half-Wave Diode Rectifier
+
+Specifications - Input voltage: 400 V, 50 Hz (sinusoidal) 3-phase AC
+Load: (a) Purely resistive – 10 Ω, (b) Moderately Inductive (series R-L) - 10 Ω, 10 mH, and (c)
+Heavily inductive (series R-L) – 10 Ω, 100 mH. The half-wave rectifier is fed from a delta (primary) /
+star (secondary) three phase transformer with a winding turns ratio of primary : secondary = 2 : 1. 
