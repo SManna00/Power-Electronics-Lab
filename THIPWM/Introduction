@@ -1,0 +1,7 @@
+Experiment: Third Harmonic Injected Sine PWM
+Appropriately choose the carrier frequency and show outputs of phase voltages:-
+1) Prior to injection of third-harmonics
+2) After injection of third harmonics
+3) Final output voltages
+
+Verify the ratio of Sine PWM voltage to THIPWM voltage.
